@@ -1,0 +1,14 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+//    "Utils": "file:../../commons/Utils",
+//    "Home": "file:../../features/Home",
+//    "Upload": "file:../../features/Upload",
+//    "Mine": "file:../../features/Mine"
+  }
+}
