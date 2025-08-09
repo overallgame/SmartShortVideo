@@ -6,9 +6,6 @@
   "author": "",
   "license": "",
   "dependencies": {
-//    "Utils": "file:../../commons/Utils",
-//    "Home": "file:../../features/Home",
-//    "Upload": "file:../../features/Upload",
-//    "Mine": "file:../../features/Mine"
+    "utils": "file:../../commons/Utils",
   }
 }
